@@ -1,0 +1,62 @@
+{
+  "_from": "historytelling-styleguide",
+  "_id": "historytelling-styleguide@2.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-kfctMqDunhVF+qcZLDj6YkFyjEPi83nNzKNtr3lKSqMrsYzQnZoWT6EDcEgOijtlQlNVzc+lEI27j9n8Eb14Hg==",
+  "_location": "/historytelling-styleguide",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "historytelling-styleguide",
+    "name": "historytelling-styleguide",
+    "escapedName": "historytelling-styleguide",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/historytelling-styleguide/-/historytelling-styleguide-2.0.2.tgz",
+  "_shasum": "85f09eb78458da6199378bbc4758ed4f4a3718bf",
+  "_spec": "historytelling-styleguide",
+  "_where": "/Users/Leon/Documents/Uni Lübeck/2. Semester/Mobile Systeme/mobiles-system-ggh",
+  "author": {
+    "name": "Leon Schmid"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "deprecated": false,
+  "description": "Dies ist der Styleguide, der für das Historytelling Projekt der Universität zu Lübeck verwendet wird",
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "clean-webpack-plugin": "^0.1.18",
+    "css-loader": "^0.28.10",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.7.2",
+    "path": "^0.12.7",
+    "postcss-cli": "^5.0.0",
+    "postcss-loader": "^2.1.0",
+    "precss": "^3.1.1",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.20.2",
+    "webpack": "^3.11.0"
+  },
+  "homepage": "https://bitbucket.org/leonschmid/styleguide#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "historytelling-styleguide",
+  "repository": {
+    "type": "git",
+    "url": "git+https://leonschmid@bitbucket.org/leonschmid/styleguide.git"
+  },
+  "scripts": {
+    "dist": "webpack",
+    "prepublishOnly": "webpack"
+  },
+  "version": "2.0.2"
+}

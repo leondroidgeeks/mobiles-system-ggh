@@ -1,0 +1,29 @@
+[{
+  "name": "Start",
+  "title": "Meine Erinnerungen",
+  "content": "Auf dieser Hauptseite von GESA haben Sie die Möglichkeit, eine neue Erinnerung über den Button „Erinnerung hinzufügen“ zu erstellen. Bei Antippen des Buttons werden Sie durch den Erstellungsprozess Schritt für Schritt hindurchgeleitet. Sie haben jederzeit die Option, Ihre Eingaben rückgängig zu machen oder den Vorgang abzubrechen.\nIhre bereits erstellten Erinnerungen werden ebenfalls auf dieser Seite angezeigt und können über die Buttons „Bearbeiten“ und „Löschen“ verändert und aus GESA entfernt werden."
+}, {
+  "name": "EreignisAuswählen",
+  "title": "Ereignis auswählen",
+  "content": "Ihre Erinnerung können Sie in GESA zeitlich einordnen. Hierfür haben Sie drei verschiedene Möglichkeiten – eine Mehrfachauswahl ist hier nicht möglich.\n\n<strong>Erste Option:</strong> Wählen Sie ein Lebensereignis von Günter Grass aus der aufgeführten Liste aus, auf das sich Ihre Erinnerung bezieht. Sie können hierbei die Suchzeile nutzen, um einen bestimmten Eintrag schneller zu finden.\n\n<strong>Zweite Option:<\/strong> Sie können die Erinnerung einem spezifischen Ausstellungsstück im Günter Grass Haus zuordnen, indem Sie über den Button „Exponat scannen“ den beim Exponat angebrachten QR-Code scannen. Hierfür wird die Kamera Ihres Smartphones verwendet. Bitte beachten Sie, dass nicht jedes Ausstellungsstück über einen QR-Code verfügt. Sollte kein QR-Code des gewünschten Ausstellungsstücks vorhanden sein, wählen Sie bitte eine der beiden anderen Optionen zur Einordnung Ihrer Erinnerung.\n\n<strong>Dritte Option:<\/strong> Bezieht sich Ihre Erinnerung auf einen persönlichen Zeitpunkt, der nicht in direkter Verbindung mit einem Werk oder Ereignis aus dem Leben von Günter Grass steht, können Sie diesen über den Button „Eigenen Zeitpunkt auswählen“ angeben."
+}, {
+  "name": "EreignisErstellen",
+  "title": "Eigenen Zeitraum wählen",
+  "content": "Bezieht sich Ihre Erinnerung auf einen persönlichen Zeitpunkt, der nicht in direkter Verbindung mit einem Werk oder Ereignis aus dem Leben von Günter Grass steht, können Sie das Jahr dieses Zeitpunkts über das Eingabefeld auf dieser Seite angeben. Im Falle eines mehrjährigen Zeitraums kann das Eingabefeld über den Button „Zeitraum angeben“ entsprechend erweitert werden.\nDie Angabe eines konkreteren Datums (mit Tages- und Monatsangabe) ist derzeit in GESA noch nicht verfügbar. "
+}, {
+  "name": "QRScan",
+  "title": "QR Code scannen",
+  "content": "Mithilfe ihrer Kamera können Sie den beim Ausstellungsstück angebrachten QR-Code scannen. Bitte erlauben Sie hierfür zunächst im Pop-Up-Fenster die Verwendung der Kamera durch den Internetbrowser Ihres Smartphones. Richten Sie dann die Kamera auf den QR-Code, sodass dieser vollständig erfasst wird. Wurde das Ausstellungsstück erkannt, werden Sie automatisch weitergeleitet. Sollte der Code nicht erkannt werden, versuchen Sie, die Distanz zwischen Kamera und Code zu variieren."
+}, {
+  "name": "QRExhibit",
+  "title": "Eingescanntes Ereignis",
+  "content": "Mithilfe ihrer Kamera können Sie den beim Ausstellungsstück angebrachten QR-Code scannen. Bitte erlauben Sie hierfür zunächst im Pop-Up-Fenster die Verwendung der Kamera durch den Internetbrowser Ihres Smartphones. Richten Sie dann die Kamera auf den QR-Code, sodass dieser vollständig erfasst wird. Wurde das Ausstellungsstück erkannt, werden Sie automatisch weitergeleitet. Sollte der Code nicht erkannt werden, versuchen Sie, die Distanz zwischen Kamera und Code zu variieren."
+}, {
+  "name": "Inhalt",
+  "title": "Inhalt hinzufügen",
+  "content": "Im zweiten Schritt der Erstellung Ihrer Erinnerung können Sie den tatsächlichen Inhalt angeben. Im dafür vorgesehenen Textfeld können Sie Ihre Erinnerung beschreiben – wie ausführlich Sie hierbei vorgehen ist Ihnen frei überlassen. Zusätzlich oder alternativ können Sie über den Button „Foto hinzufügen“ Ihre Erinnerung medial mit einem Foto anreichern, welches Sie direkt über die Kamera aufnehmen oder aus der Galerie Ihres Smartphones auswählen können.\nÜber den Button „Erinnerung abschicken“ können Sie Ihre Erinnerung in GESA veröffentlichen, sodass sie im interaktiven Zeitstrahl dargestellt wird. Von Ihnen erstellte Erinnerungen können Sie über die Hauptseite einsehen sowie nachträglich bearbeiten oder löschen. Dorthin werden Sie nach Abschicken Ihrer Erinnerung automatisch weitergeleitet."
+}, {
+  "name": "Login",
+  "title": "Anwendung starten",
+  "content": "Auf der Startseite von GESA können Sie sich entscheiden, ob Sie die Webseite anonym oder unter Verwendung eines persönlichen Pseudonyms nutzen möchten. Ihre gewählte Option bestimmt darüber, ob Sie Ihre erstellten Erinnerungen in GESAs Zeitstrahl wiederfinden können (mit Pseudonym) oder nicht (anonym). \nDas von Ihnen gewählte Pseudonym können Sie in das hierfür vorgegebene Feld eintragen und „Starten“ antippen, um fortfahren. Für die anonyme Nutzung tippen Sie bitte ohne weitere Eingaben auf den „Starten“-Button. In beiden Fällen haben Sie während Ihrer gesamten Nutzung von GESA die Möglichkeit, Ihre bereits erstellten Erinnerungen einzusehen, zu bearbeiten und auch zu löschen."
+}]

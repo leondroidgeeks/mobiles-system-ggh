@@ -1,0 +1,31 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 10px;
+}
+
+.grid-item {
+  grid-column-start: auto;
+  grid-column-end: auto;
+  grid-row-start: auto;
+  grid-row-end: auto;
+  max-width: 250px;
+}
+
+.timeline-overview {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.timeline-date {
+  min-width: 100px;
+  min-height: 100px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.timelineActive {
+  background-color: #475c7b;
+  color: white;
+}

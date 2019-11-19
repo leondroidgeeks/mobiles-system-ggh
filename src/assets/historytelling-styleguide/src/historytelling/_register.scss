@@ -1,0 +1,43 @@
+.invitation-banner {
+    margin-top: -1.3rem;
+}
+
+.invitation-header:hover {
+    cursor: pointer;
+}
+
+.invitation-modal-mask {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: auto;
+}
+
+.invitation-modal-container {
+    width: 60%;
+    max-height: 100%;
+    overflow: auto;
+    position: absolute;
+    padding: 2rem 0.5rem 0.5rem;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
+}
+
+@include media-breakpoint-up(md) {
+    .invitation-modal-container {
+        top: 50%;
+        right: 50%;
+        transform: translate(50%, -50%);
+    }
+}
+
+@include media-breakpoint-down(md) {
+    .invitation-modal-container {
+        width: 100%;
+    }
+}
